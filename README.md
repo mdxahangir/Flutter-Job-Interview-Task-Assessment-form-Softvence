@@ -1,16 +1,14 @@
-# onboarding_alarm_app_1
+## 📸 Screenshots
 
-A new Flutter project.
+### 🔔 Alarm Screen
+![Alarm Screen](assets/images/Alarm01.png)
 
-## Getting Started
+### 📍 Location Screen
+![Location Screen](assets/images/Location01.png)
 
-This project is a starting point for a Flutter application.
+### 🚀 Onboarding Screens
 
-A few resources to get you started if this is your first Flutter project:
+| Screen 1 | Screen 2 | Screen 3 |
+|---------|----------|----------|
+| ![](assets/images/Onboarding01.png) | ![](assets/images/Onboarding02.png) | ![](assets/images/Onboarding03.png) |
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
